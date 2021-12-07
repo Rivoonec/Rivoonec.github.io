@@ -38,7 +38,3 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 Все вопросы можно отложить в долгий ящик.
 Поддержка пользователей отсутсвует всвязи с отсутсвием пользователей.
-
-p.s. _Дима лох попущенный_
-
-![Image](https://i.ibb.co/vzHQdzH/image.jpg)
