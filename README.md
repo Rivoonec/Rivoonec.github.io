@@ -41,4 +41,4 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 p.s. _Дима лох попущенный_
 
-![Image](https://ibb.co/12LdX2L)
+![Image](https://i.ibb.co/vzHQdzH/image.jpg)
