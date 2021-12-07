@@ -41,4 +41,4 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 p.s. _Дима лох попущенный_
 
-![Image](пасха.)
+![Image](пасха.jpg)
