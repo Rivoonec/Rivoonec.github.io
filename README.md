@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Мой волшебный сайт-портфолио
 
-You can use the [editor on GitHub](https://github.com/Rivoonec/Rivoonec.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Содержание моего сайта всё ещё находится под огромным вопросом всвязи с отсутсвующими идеями, навыками, проектами ,но разве это повод не создать эту сырую основу?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+В будующем здесь может появиться много интересных вещей,новых функций, измениться дизайн и т.д. Но на данный момент расскажу какой я крутой.
 
 ### Markdown
 
